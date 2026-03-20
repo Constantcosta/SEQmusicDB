@@ -1,0 +1,983 @@
+[
+  {
+    "name": "The Tivoli",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.thetivoli.com.au",
+    "notes": "Iconic 1500-capacity theatre venue; hosts touring and local acts across all genres. One of Brisbane's most established live music institutions."
+  },
+  {
+    "name": "Fortitude Music Hall",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.fortitudemusichall.com.au",
+    "notes": "3000-capacity ballroom-style venue; Australia's largest of its type. Five bars. Houses The Outpost (300-cap) as a smaller inner venue. Major touring acts."
+  },
+  {
+    "name": "The Outpost",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://www.fortitudemusichall.com.au",
+    "notes": "300-capacity room inside Fortitude Music Hall; dedicated to local performers. Late-night 70s post-punk aesthetic."
+  },
+  {
+    "name": "The Triffid",
+    "suburb": "Newstead",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://thetriffid.com.au",
+    "notes": "Converted WWII aircraft hangar; 800-capacity. Owned by Powderfinger bassist John Collins. Acoustic Wednesdays and Sunday beer garden sessions free. Strong focus on emerging bands."
+  },
+  {
+    "name": "Black Bear Lodge",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "https://blackbearlodge.com.au",
+    "notes": "Intimate hole-in-the-wall venue at 322 Brunswick St. EP sets, intimate touring gigs, Sunday Service (free entry). DJ sets, trivia, '90s dance parties."
+  },
+  {
+    "name": "Brooklyn Standard",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "https://www.brooklynstandard.com.au",
+    "notes": "Eagle Lane basement bar. Live music 6 nights a week (jazz, soul, funk, blues, rockabilly). Award-winning venue: Best Live Music Venue in Australia 2015, 2019, 2021. Jam nights on Wednesdays."
+  },
+  {
+    "name": "The Brightside",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://www.thebrightside.net.au",
+    "notes": "27 Warner St; former church. Indie, rock, hardcore, alternative. Dog-friendly beer garden. Hosts Access All Areas unsigned band competition. Regular gig nights."
+  },
+  {
+    "name": "Crowbar Brisbane",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://crowbarbrisbane.com.au",
+    "notes": "711 Ann St; took over from The Zoo (closed 2024). Rock and metal focus. Local and international artists. Consistently full calendar."
+  },
+  {
+    "name": "Greaser",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://greaserbar.com.au",
+    "notes": "259A Brunswick St basement bar. Open Wed–Sat. Emerging indie and rock bands. Graffiti-covered, exposed brick. Many free gigs. American food menu."
+  },
+  {
+    "name": "Suzie Wong's Good Time Bar",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "",
+    "notes": "678 Ann St. Hawaiian dive bar. Live music 4 nights/week plus hospitality nights Sundays. Check Facebook for lineup."
+  },
+  {
+    "name": "The Sound Garden",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "",
+    "notes": "312–318 Brunswick St. Two-floor bar/restaurant; 700 capacity. Live music stage on ground floor with local artists on weekends."
+  },
+  {
+    "name": "Lefty's Old Time Music Hall",
+    "suburb": "Petrie Terrace",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://leftysmusichall.com.au",
+    "notes": "15 Caxton St. Country, honky-tonk, rockabilly. Live music Thu–Sat. American food menu. Secret Mermaid Bar inside. Trading hours: Fri–Sat 5pm–2am."
+  },
+  {
+    "name": "The Bearded Lady",
+    "suburb": "West End",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "",
+    "notes": "138 Boundary St. Live music Thu–Sun. Gypsy Jazz Sundays ($10 door). Free shows Wednesdays in front bar. BYO food. Local and touring acts."
+  },
+  {
+    "name": "It's Still A Secret",
+    "suburb": "South Brisbane",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "bands",
+    "website": "",
+    "notes": "48 Montague Rd. 130-year-old heritage building. Dedicated band room. Wine bar vibes. Local and original acts."
+  },
+  {
+    "name": "The Princess Theatre",
+    "suburb": "Woolloongabba",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.theprincesstheatre.com.au",
+    "notes": "8 Annerley Rd. Heritage-listed 1888 theatre. Reopened 2021 by Tivoli owners. Indie acts, theatre, cabaret, circus. Four bars."
+  },
+  {
+    "name": "Irish Murphy's",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "pub",
+    "acts": "both",
+    "website": "https://www.irishmurphys.com.au/brisbane",
+    "notes": "Corner George St and Elizabeth St. Live music 7 days/week. Brisbane's most authentic Irish pub. Cover bands, soloists, and Irish entertainers. Gig guide on website."
+  },
+  {
+    "name": "Felons Brewing Co. / Barrel Hall",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "brewery",
+    "acts": "bands",
+    "website": "https://felonsbrewingco.com.au",
+    "notes": "5 Boundary St (Story Bridge). Barrel Hall experimental space blending live music and beer. Regular ticketed gigs (funk, jazz, soul, rock, originals). Outdoor lawn also hosts performances."
+  },
+  {
+    "name": "The Junk Bar",
+    "suburb": "Ashgrove",
+    "region": "Brisbane",
+    "type": "bar",
+    "acts": "both",
+    "website": "",
+    "notes": "Neighbourhood bar. Open mic Thursdays. Curated cocktails. Low-key live music nights. Local artists."
+  },
+  {
+    "name": "Brisbane Jazz Club",
+    "suburb": "Kangaroo Point",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.brisbanejazzclub.com.au",
+    "notes": "Not-for-profit jazz club. Regular jazz performances. School/college bands as well as established artists. All-ages friendly."
+  },
+  {
+    "name": "Brisbane Powerhouse",
+    "suburb": "New Farm",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.brisbanepowerhouse.org",
+    "notes": "Former power station turned multi-arts hub. Live music, theatre, festivals. Sunday afternoon sessions. Bars and restaurants onsite."
+  },
+  {
+    "name": "Pig 'n' Whistle Riverside",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "pub",
+    "acts": "bands",
+    "website": "https://www.pignwhistle.com.au",
+    "notes": "Eagle St. British-themed pub. Regular live bands booked on weekends. Home of the British in Brisbane."
+  },
+  {
+    "name": "Carindale Hotel",
+    "suburb": "Carindale",
+    "region": "Brisbane",
+    "type": "hotel",
+    "acts": "solo_duo",
+    "website": "https://carindalehotel.com.au",
+    "notes": "Live music every Friday from 4pm–7pm. Local talent sessions."
+  },
+  {
+    "name": "Mates Restaurant and Bar",
+    "suburb": "Wynnum",
+    "region": "Brisbane",
+    "type": "restaurant",
+    "acts": "solo_duo",
+    "website": "https://matesbar.com.au",
+    "notes": "Edith St, Wynnum. Live acoustic music Fri–Sat evenings 6:30pm–8:30pm. Local artists."
+  },
+  {
+    "name": "Geebung RSL",
+    "suburb": "Geebung",
+    "region": "Brisbane",
+    "type": "RSL",
+    "acts": "solo_duo",
+    "website": "https://www.geebungrsl.com.au",
+    "notes": "Free live entertainment Fri–Sun on bridge (Level One) and Sunday afternoons in The Cove. Guitar vocalists and soloists. Regular weekly schedule."
+  },
+  {
+    "name": "Kedron-Wavell Services Club",
+    "suburb": "Chermside",
+    "region": "Brisbane",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://kedron-wavell.com.au",
+    "notes": "Brisbane's award-winning services club. Regular live music and entertainment program. 15 minutes north of CBD in Chermside precinct."
+  },
+  {
+    "name": "Easts Leagues Club",
+    "suburb": "East Brisbane",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "both",
+    "website": "https://eastsleagues.com.au",
+    "notes": "Regular live music schedule in The Lounge. Fri–Sun performances. Mix of solo and band acts."
+  },
+  {
+    "name": "Wynnum Manly Leagues Club",
+    "suburb": "Wynnum",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "both",
+    "website": "https://www.wynnummanlyleagues.com.au",
+    "notes": "Free live entertainment Fri–Sun. Largest entertainment venue in Brisbane's southeastern corridor. Regular roster of acts."
+  },
+  {
+    "name": "Broncos Leagues Club",
+    "suburb": "Red Hill",
+    "region": "Brisbane",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://broncosclub.com.au",
+    "notes": "Regular lineup of live performers and bands. Check What's On calendar. Ticketed and free events."
+  },
+  {
+    "name": "Miami Marketta",
+    "suburb": "Miami",
+    "region": "Gold Coast",
+    "type": "outdoor",
+    "acts": "bands",
+    "website": "https://miamimarketta.com",
+    "notes": "23 Hillcrest Parade. Converted mechanics warehouse/laneway. Open Wed, Fri, Sat 5pm–10pm. Mix of free and ticketed events. Cargo Stage for homegrown artists. Major national touring acts."
+  },
+  {
+    "name": "Coolangatta Hotel",
+    "suburb": "Coolangatta",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://coolangattahotel.com.au",
+    "notes": "Beachfront pub. Free live music almost nightly. Covers, tributes, DJs. Late-night 18+ from 10pm. Popular NYE venue. One of GC's most active free music pubs."
+  },
+  {
+    "name": "SoundLounge (at Currumbin RSL)",
+    "suburb": "Currumbin",
+    "region": "Gold Coast",
+    "type": "RSL",
+    "acts": "bands",
+    "website": "https://www.currumbinrsl.com.au",
+    "notes": "165 Duringan St. Gold Coast's premier original music venue; 300–670 cap. Winner 'Best Live Music Venue Gold Coast' 2015. Fri–Sun. Ticketed shows ~$40–$80 via Oztix/Humanitix."
+  },
+  {
+    "name": "Currumbin RSL (main venue)",
+    "suburb": "Currumbin",
+    "region": "Gold Coast",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://www.currumbinrsl.com.au",
+    "notes": "23+ hours of free live music every Fri, Sat, Sun. Creekside setting. Alley's Restaurant and The Deck dining. Courtesy bus Wed–Sun. Phone: 07 5534 7999."
+  },
+  {
+    "name": "Vinnies Dive Bar",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "type": "bar",
+    "acts": "bands",
+    "website": "",
+    "notes": "Punk, hardcore, indie. Local and touring acts. Backyard beer garden. One of GC's best for alternative/indie music."
+  },
+  {
+    "name": "Mo's Desert Clubhouse",
+    "suburb": "Burleigh Heads",
+    "region": "Gold Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.mosdesertclubhouse.com",
+    "notes": "6/36 Central Drive. Live music venue and creative hub. The Warehouse (indoor events space). El Ranchero bar. Indie, heavy, rock. Touring and local acts."
+  },
+  {
+    "name": "Den Devine Restaurant & Music Hall",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "type": "restaurant",
+    "acts": "both",
+    "website": "https://www.dendevine.com.au",
+    "notes": "Soulful live music hall. Jazz, blues, funk. Intimate 150-cap space. GCMA finalist acoustics. Late-night dining. Open mic Tuesday nights."
+  },
+  {
+    "name": "Burleigh Town Tavern",
+    "suburb": "Burleigh Heads",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "bands",
+    "website": "",
+    "notes": "Family-friendly beachside pub since 1981. Free live music Fri–Sat 8pm (rock/pop covers), Sunday arvo acoustic sessions. Regular touring acts."
+  },
+  {
+    "name": "The Wallaby Hotel",
+    "suburb": "Mudgeeraba",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "Intimate originals venue. Local and touring Australian artists (Alex Lloyd, Mick Thomas, Wendy Matthews). Tribute acts and originals."
+  },
+  {
+    "name": "Finn McCool's Irish Pub",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "both",
+    "website": "",
+    "notes": "Free live music Fri/Sat/Sun + Irish Thursdays. Regular schedule of cover acts and Irish entertainers."
+  },
+  {
+    "name": "CSi Club Southport",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "",
+    "notes": "154A Scarborough St. Free live music every Fri and Sat night, Sundays and specials. Family-focused with bistro and gaming. Party bands and cover acts."
+  },
+  {
+    "name": "Southport RSL Club",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://sopo.com.au",
+    "notes": "36 Scarborough St. National and international touring acts. Free parking. Bistro 36 dining. Entertainment programs across genres."
+  },
+  {
+    "name": "Nerang RSL",
+    "suburb": "Nerang",
+    "region": "Gold Coast",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://nerangrsl.com.au",
+    "notes": "69 Nerang St. Local and national entertainers Thu–Sun. Renovated venue. 4211 café open 7 days. Art bars, TAB, restaurant."
+  },
+  {
+    "name": "The Lawn at The Star Gold Coast",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "type": "outdoor",
+    "acts": "solo_duo",
+    "website": "https://www.star.com.au/goldcoast",
+    "notes": "Garden Kitchen & Bar at The Star. Open-air free acoustic acts and DJs. Fri–Sat from 5pm, Sun from 3pm. Local and international performers."
+  },
+  {
+    "name": "Surfers Paradise Beer Garden",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "bar",
+    "acts": "bands",
+    "website": "",
+    "notes": "Next to Cavill Ave. 'Home of the finest live music on the Coast'. Authentic rock focus. Regular live bands."
+  },
+  {
+    "name": "Hope Island Tavern",
+    "suburb": "Hope Island",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "solo_duo",
+    "website": "https://hopeislandtavern.com.au",
+    "notes": "Free live music in Beer Garden from 5pm Fridays. Free BBQ from 3pm. Acoustic sets."
+  },
+  {
+    "name": "The Grand Hotel Labrador",
+    "suburb": "Labrador",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "",
+    "notes": "Regular live music, primarily cover bands. Lively atmosphere with dancing crowd."
+  },
+  {
+    "name": "Robina Pavilion",
+    "suburb": "Robina",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "bands",
+    "website": "",
+    "notes": "Free live music Fri/Sat/Sun. Cover bands and party acts."
+  },
+  {
+    "name": "Palm Beach Hotel",
+    "suburb": "Palm Beach",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "",
+    "notes": "Free live music on weekends. Regular roster of cover bands."
+  },
+  {
+    "name": "Runaway Bay Tavern",
+    "suburb": "Runaway Bay",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "bands",
+    "website": "",
+    "notes": "Free live music Fri/Sat/Sun. Regular entertainment schedule."
+  },
+  {
+    "name": "D'Arcy Arms",
+    "suburb": "Gold Coast",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Regular free acoustic sessions. Irish/British pub style."
+  },
+  {
+    "name": "Jacobs Well Bayside Tavern",
+    "suburb": "Jacobs Well",
+    "region": "Gold Coast",
+    "type": "pub",
+    "acts": "both",
+    "website": "",
+    "notes": "Country pub feel. Lots of live music. Massive outdoor area across from the water. North Gold Coast area."
+  },
+  {
+    "name": "Solbar",
+    "suburb": "Maroochydore",
+    "region": "Sunshine Coast",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://www.solbar.com.au",
+    "notes": "19 Ocean St. Sunshine Coast's premier live music venue. Front bar acoustic sessions Tue–Sun. Band room with touring acts and local bands. Staff are accomplished musicians. All-ages shows available."
+  },
+  {
+    "name": "The Station SC",
+    "suburb": "Birtinya",
+    "region": "Sunshine Coast",
+    "type": "outdoor",
+    "acts": "bands",
+    "website": "https://thestationsc.com.au",
+    "notes": "8 The Avenue. Converted shipping container venue with skate ramp. Major touring acts (JET, Dune Rats, PNAU, Sheppard). Co-run by record producer Alex Henriksson. Large outdoor precinct."
+  },
+  {
+    "name": "Kings Beach Tavern",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://kingsbeachtavern.com.au",
+    "notes": "Award-winning beachside tavern. Winner Best Regional Venue at Queensland Music Awards. Major touring acts (Mel C, The Rubens). Regular entertainment program."
+  },
+  {
+    "name": "Norton Music Factory",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://nortonmusicfactory.com.au",
+    "notes": "Two-stage precinct; 400-person capacity. Boutique festival events. Touring acts (Ben Lee, Boom Crash Opera, James Reyne). All profit goes to local charities. Raised $40,000+ for charity."
+  },
+  {
+    "name": "Sandstone Point Hotel",
+    "suburb": "Sandstone Point",
+    "region": "Moreton Bay",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://sandstonepointhotel.com.au",
+    "notes": "Bribie Island area. Australia's Best Entertainment Venue award winner. Live local music on waterfront grass Sat and Sun from midday. Nightclub Fri–Sat nights. Major concerts year-round (The Beach Boys, Jimmy Barnes, Joan Jett). Tickets via Ticketmaster/Oztix."
+  },
+  {
+    "name": "Blackflag Brewing",
+    "suburb": "Coolum Beach",
+    "region": "Sunshine Coast",
+    "type": "brewery",
+    "acts": "bands",
+    "website": "https://www.blackflagbrewing.com.au",
+    "notes": "Beachside brewery. Two-stage precinct; 400 capacity. Surf-punk, rock, indie. Boutique festival events including The Big Weekend. Touring acts."
+  },
+  {
+    "name": "Imperial Hotel Eumundi",
+    "suburb": "Eumundi",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://www.imperialhoteleumundi.com.au",
+    "notes": "Comiskey Group venue. Major touring acts (The Beautiful Girls, Ben Lee, The Whitlams). Live music Thu–Sun. Home to Eumundi Brewery. Band room recently refurbished."
+  },
+  {
+    "name": "Villa Noosa Hotel",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://www.villanoosa.com.au",
+    "notes": "Regular live music program. Notable acts (Grinspoon, Dellacoma, Shihad, Dune Rats). Good pub food."
+  },
+  {
+    "name": "Coolum Beach Hotel",
+    "suburb": "Coolum Beach",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "both",
+    "website": "https://www.coolumbeachhotel.com.au",
+    "notes": "Regular live music. Local Sunshine Coast acts. It Starts at Home Music Festival hosted here. Regular sessions."
+  },
+  {
+    "name": "The Presynct",
+    "suburb": "Nambour",
+    "region": "Sunshine Coast",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://www.thepresynct.com.au",
+    "notes": "100-person steam-punk inspired vintage cocktail lounge. Eclectic genres (EDM, drum and bass, jazz, heavy metal). Run by mother-daughter duo. Part of growing Nambour original music scene."
+  },
+  {
+    "name": "Black Box Theatre @ The Old Ambo",
+    "suburb": "Nambour",
+    "region": "Sunshine Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://theoldambulancestation.com",
+    "notes": "Purpose-built 100-capacity air-conditioned venue. Hardcore, punk, rock focus. International acts (Dark Thoughts USA, Peter and the Test Tube Babies UK). Grassroots promoters."
+  },
+  {
+    "name": "Nambour RSL Club",
+    "suburb": "Nambour",
+    "region": "Sunshine Coast",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://www.nambourrsl.com.au",
+    "notes": "Passion for live and free music with local and touring acts. Intimate bars. Gateway to Sunshine Coast Hinterland towns."
+  },
+  {
+    "name": "Club Kawana",
+    "suburb": "Bokarina",
+    "region": "Sunshine Coast",
+    "type": "club",
+    "acts": "both",
+    "website": "https://clubkawana.com.au",
+    "notes": "Sunshine Coast's Favourite Club. Weekly live entertainment Fri–Sat. Local Sunshine Coast soloists, duos, and bands as well as interstate acts. Bowling club facilities."
+  },
+  {
+    "name": "Maroochy RSL",
+    "suburb": "Maroochydore",
+    "region": "Sunshine Coast",
+    "type": "RSL",
+    "acts": "bands",
+    "website": "",
+    "notes": "Regular dance bands performing evenings. Popular with dancers. Book for dinner. Sunshine Coast hinterland gateway club."
+  },
+  {
+    "name": "Club Maroochy (Sunshine Coast Bowls Club)",
+    "suburb": "Maroochydore",
+    "region": "Sunshine Coast",
+    "type": "club",
+    "acts": "solo_duo",
+    "website": "https://clubmaroochy.com.au",
+    "notes": "Live music every Friday night from 6:30pm. Full room of pokies. Bowls club facilities."
+  },
+  {
+    "name": "Moffat Beach Brewing Co.",
+    "suburb": "Moffat Beach",
+    "region": "Sunshine Coast",
+    "type": "brewery",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Caloundra area. Live music Fri–Sun. Craft brewery setting. Local acoustic and band acts."
+  },
+  {
+    "name": "Land & Sea Brewery",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "type": "brewery",
+    "acts": "both",
+    "website": "",
+    "notes": "Craft beer meets coastal tunes. Local artists and visiting bands every Saturday. Relaxed brewery setting."
+  },
+  {
+    "name": "Boiling Pot Brewing Co.",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "type": "brewery",
+    "acts": "both",
+    "website": "",
+    "notes": "Live music Fridays and Sundays. Craft brewery with regular entertainment."
+  },
+  {
+    "name": "Banana Bender Pub",
+    "suburb": "Sunshine Coast",
+    "region": "Sunshine Coast",
+    "type": "pub",
+    "acts": "both",
+    "website": "https://thebananabenderpub.com",
+    "notes": "Live music and comedy events. Regular entertainment schedule. Pub classics menu. Check website for event calendar."
+  },
+  {
+    "name": "The Dock Mooloolaba",
+    "suburb": "Mooloolaba",
+    "region": "Sunshine Coast",
+    "type": "restaurant",
+    "acts": "both",
+    "website": "",
+    "notes": "Marina location. Local acoustic artists, live bands, sunset singalongs Thu–Sun. Unbeatable atmosphere."
+  },
+  {
+    "name": "Pier 33 Mooloolaba",
+    "suburb": "Mooloolaba",
+    "region": "Sunshine Coast",
+    "type": "restaurant",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Waterfront dining. Live piano Thu and Sun; afternoon live music Sat; Friday evening entertainment. Views over Mooloolaba marina."
+  },
+  {
+    "name": "Finbar's Lounge Bar",
+    "suburb": "Maleny",
+    "region": "Sunshine Coast",
+    "type": "bar",
+    "acts": "solo_duo",
+    "website": "https://finbarsmaleny.com.au",
+    "notes": "12 Bicentenary Ln. Live music every weekend. Woodfired pizza Thu–Sun. 12 beers on tap. Family-friendly. Hinterland hidden gem."
+  },
+  {
+    "name": "Montville Pub (Cafe Bar Grill)",
+    "suburb": "Montville",
+    "region": "Sunshine Coast",
+    "type": "restaurant",
+    "acts": "solo_duo",
+    "website": "https://montvillepub.com.au",
+    "notes": "Main St, Montville. Live music Friday nights and Sat/Sun afternoons. Tudor-style building with beer garden. Phone: 07 5478 5535."
+  },
+  {
+    "name": "Joe's Waterhole Hotel",
+    "suburb": "Eumundi",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "85 Memorial Drive, Eumundi. Regular live music events. Part of Sunshine Coast live music scene."
+  },
+  {
+    "name": "Beerwah Hotel",
+    "suburb": "Beerwah",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "53 Beerwah Parade. Regular live music events listed on Eventfinda."
+  },
+  {
+    "name": "Bone Idol Brewery",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "brewery",
+    "acts": "both",
+    "website": "https://www.boneidolbrewery.com.au",
+    "notes": "Live music Thu–Sun. Multiple sessions daily on weekends. Open mic nights. Local and touring acts across rock, indie, country. Craft beer, food, darts/shuffleboard."
+  },
+  {
+    "name": "Irish Club Hotel Toowoomba",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "hotel",
+    "acts": "both",
+    "website": "https://irishclubhotel.com.au",
+    "notes": "More entertainment venue than just a pub. Fri–Sat 8pm–midnight; Sun 6pm–10pm. Regular weekly covers acts, original acts, tribute bands, jazz sessions. Open mic Thursdays."
+  },
+  {
+    "name": "Cork & Lever",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "bar",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Wine bar. Live music Thursday nights (7pm–9pm). Excellent atmosphere. Tripadvisor highly rated."
+  },
+  {
+    "name": "Southern Hotel Toowoomba",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "Regular live music Fri–Sun. Various local solo artists and bands."
+  },
+  {
+    "name": "Mouse Proof Brewery",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "brewery",
+    "acts": "both",
+    "website": "",
+    "notes": "Open mic events (Cowboy Craig's Open Mic). Craft brewery setting. Fri and weekend sessions."
+  },
+  {
+    "name": "Fitzy's Toowoomba (Tapestry Bar)",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "club",
+    "acts": "both",
+    "website": "",
+    "notes": "Tapestry Bar inside Fitzy's. Regular Thu–Sun live music. Country, rock, covers. Busy entertainment calendar."
+  },
+  {
+    "name": "City Golf Club Toowoomba",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "club",
+    "acts": "bands",
+    "website": "",
+    "notes": "Regular Fri–Sat live bands (8pm–11:30pm). Cover bands and local acts."
+  },
+  {
+    "name": "The Tatts Hotel Toowoomba",
+    "suburb": "Toowoomba",
+    "region": "Toowoomba",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "",
+    "notes": "Regular Saturday night entertainment including covers and retro nights."
+  },
+  {
+    "name": "Flaming Knights Hotel (Drayton)",
+    "suburb": "Drayton",
+    "region": "Toowoomba",
+    "type": "hotel",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Drayton area of Toowoomba. Saturday evening live music. Local acts."
+  },
+  {
+    "name": "Banshees Bar & Artspace",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "bar",
+    "acts": "bands",
+    "website": "https://bansheesbar.com.au",
+    "notes": "Brisbane St, Ipswich. Open mic Wednesdays 7pm; karaoke Thursdays 8pm; gig nights Fri–Sat; various Sundays. Consistently the most active live music venue in Ipswich. Check Facebook for schedule."
+  },
+  {
+    "name": "Stony Creek Brewing (formerly Pumpyard / 4 Hearts Brewing)",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "brewery",
+    "acts": "both",
+    "website": "https://www.stonycreekbrewing.com.au",
+    "notes": "88 Limestone St. Heritage-listed building. Live music most Fri, Sat, Sun in the laneway. Dog and family friendly. Award-winning burgers. Book via nowbookit."
+  },
+  {
+    "name": "Brothers Leagues Club Ipswich",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "club",
+    "acts": "both",
+    "website": "https://brothersipswich.com.au",
+    "notes": "Regular Saturday entertainment in The Lounge (5:30pm). Solo acoustic acts and bands. Free entry."
+  },
+  {
+    "name": "Club Services Ipswich (CSI)",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "club",
+    "acts": "bands",
+    "website": "",
+    "notes": "Free live music every Friday and Saturday night. Very active entertainment program."
+  },
+  {
+    "name": "Jets Leagues Club",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "club",
+    "acts": "both",
+    "website": "",
+    "notes": "Free live music most weekends. Regular entertainment program."
+  },
+  {
+    "name": "The Metropole Hotel Ipswich",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "Regular live music including Sunday sessions. No pokies. Highly recommended by locals."
+  },
+  {
+    "name": "The Rusty Nail",
+    "suburb": "Ipswich",
+    "region": "Ipswich",
+    "type": "bar",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "44 Ipswich City Mall. Live music from local artists Sundays 3:30pm–7:30pm. Tapas menu."
+  },
+  {
+    "name": "Beenleigh Tavern",
+    "suburb": "Beenleigh",
+    "region": "Logan",
+    "type": "pub",
+    "acts": "bands",
+    "website": "https://beenleightavern.com.au",
+    "notes": "Live music every Fri, Sat, Sun night. Logan's best live music destination. Diverse schedule from emerging local bands to touring acts. Also Thu and DJ nights."
+  },
+  {
+    "name": "Diggers Services Club Logan",
+    "suburb": "Logan Central",
+    "region": "Logan",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://www.diggersservicesclub.com.au",
+    "notes": "Live entertainment every Friday night. Logan musicians. Also Sat entertainment. Six days of bingo. Crystal Palace function room for 500 guests."
+  },
+  {
+    "name": "Greenbank Services Club",
+    "suburb": "Hillcrest",
+    "region": "Logan",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://greenbankservicesclub.com.au",
+    "notes": "54 Anzac Ave. Free live entertainment Fri–Sun. 'Friday Night Live' events. Weekend entertainment lineup of local and touring bands/soloists."
+  },
+  {
+    "name": "River Road Tavern",
+    "suburb": "Eagleby",
+    "region": "Logan",
+    "type": "pub",
+    "acts": "bands",
+    "website": "https://riverroadtavern.com.au",
+    "notes": "Logan City. Live music in beer garden. Local and touring bands. Sports bar. Family-friendly bistro."
+  },
+  {
+    "name": "Redcliffe RSL",
+    "suburb": "Redcliffe",
+    "region": "Moreton Bay",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://redcliffersl.com.au",
+    "notes": "Free live entertainment daily in Diggers Bar and The Point. Daytime sessions Mon–Sun 11am–3pm. Evening sessions Fri–Sat 6pm–10pm and Sat 7pm–11pm. Large weekly program of solo guitar vocalists."
+  },
+  {
+    "name": "Sandstone Point Hotel",
+    "suburb": "Sandstone Point",
+    "region": "Moreton Bay",
+    "type": "hotel",
+    "acts": "bands",
+    "website": "https://sandstonepointhotel.com.au",
+    "notes": "Bribie Island/Moreton Bay area. Award-winning entertainment venue. Major concert events. Live local music waterfront grass Sat–Sun from midday. Nightclub Fri–Sat. Contact: 07 3475 3001."
+  },
+  {
+    "name": "Full Moon Hotel",
+    "suburb": "Sandgate",
+    "region": "Moreton Bay",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "Highly rated on OpenTable. Regular live music. Popular Moreton Bay / Sandgate venue."
+  },
+  {
+    "name": "Narangba Valley Tavern",
+    "suburb": "Narangba",
+    "region": "Moreton Bay",
+    "type": "pub",
+    "acts": "both",
+    "website": "https://www.narangbatavern.com.au",
+    "notes": "Regular DJ Friday nights. Live entertainment program. 250-seat restaurant. North of Brisbane in Moreton Bay region."
+  },
+  {
+    "name": "Sports Central Caboolture",
+    "suburb": "Caboolture",
+    "region": "Moreton Bay",
+    "type": "club",
+    "acts": "both",
+    "website": "https://sportscentralcaboolture.com.au",
+    "notes": "Corner Hasking St and Beerburrum Rd. Live music in regular entertainment schedule. Also trivia, bingo, sport."
+  },
+  {
+    "name": "Jumping Goats Bar",
+    "suburb": "Moreton Bay",
+    "region": "Moreton Bay",
+    "type": "bar",
+    "acts": "both",
+    "website": "",
+    "notes": "Father-daughter run local bar. Musical evenings regularly. BYO food from adjacent outlets. Highly rated on TripAdvisor. Good selection of local beers and wines."
+  },
+  {
+    "name": "Redland Bay Hotel",
+    "suburb": "Redland Bay",
+    "region": "Redlands",
+    "type": "hotel",
+    "acts": "both",
+    "website": "",
+    "notes": "Views over Moreton Bay. Casual seafood dining. A la carte available. Live music program."
+  },
+  {
+    "name": "Era Bar Redcliffe",
+    "suburb": "Redcliffe",
+    "region": "Moreton Bay",
+    "type": "bar",
+    "acts": "solo_duo",
+    "website": "",
+    "notes": "Level 1 Comino's Arcade, 133 Redcliffe Parade. Live music on weekends. Relaxed venue for beer lovers."
+  },
+  {
+    "name": "Beenleigh RSL & Golf Club",
+    "suburb": "Beenleigh",
+    "region": "Logan",
+    "type": "RSL",
+    "acts": "both",
+    "website": "",
+    "notes": "Regular entertainment program. RSL club with golf facilities. Live music and entertainment events."
+  },
+  {
+    "name": "Twin Towns Clubs & Resort",
+    "suburb": "Tweed Heads",
+    "region": "Gold Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://www.twintowns.com.au",
+    "notes": "Corner Griffith St and Wharf St, Tweed Heads (GC border). World-class entertainment. Regular national and international touring acts. Multiple bars including 1st On Wharf sports bar. One of Australia's most awarded services clubs."
+  },
+  {
+    "name": "Surfers RSL (Diggers and Sports Club)",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "RSL",
+    "acts": "both",
+    "website": "https://www.diggersandsports.com.au",
+    "notes": "Level 1, 9 Beach Rd. Live music five days/week. Extensive cocktail selection. Modern reinvention of historic Surfers Paradise club."
+  },
+  {
+    "name": "Riverstage",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "outdoor",
+    "acts": "bands",
+    "website": "https://www.riverstage.com.au",
+    "notes": "City Botanic Gardens. Outdoor amphitheatre; 9500 capacity. Major festival and concert venue. Host of Lord Mayor's Christmas Carols. Annual music events."
+  },
+  {
+    "name": "Elsewhere Bar",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "https://elsewherebar.com.au",
+    "notes": "Underground electronic music club. Techno, house, bass. 300+ cap. Funktion-One sound. Industrial vibes. Late closes. Tickets via elsewherebar.com.au or Tixel."
+  },
+  {
+    "name": "The Avenue",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "club",
+    "acts": "bands",
+    "website": "",
+    "notes": "3-15 Orchid Ave. Open 7 days. Live bands, comedy, drag, DJs. Regular covers and touring acts. Heart of Surfers Paradise nightlife."
+  }
+]

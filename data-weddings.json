@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Bundaleer Rainforest Gardens",
+    "suburb": "Brookfield",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "200",
+    "website": "https://bundaleer.com",
+    "music_notes": "Outdoor rainforest garden venue with indoor reception spaces (Treetops barn). No specific noise curfew publicly listed; BYO drinks policy. Acoustic and live band setups common."
+  },
+  {
+    "name": "Hillstone St Lucia",
+    "suburb": "St Lucia",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "800 cocktail / 350 seated",
+    "website": "https://www.hillstonestlucia.com.au",
+    "music_notes": "Golf course venue with multiple function rooms. Portable PA systems included. Capacity for large live bands. One of Brisbane's most popular wedding live music venues."
+  },
+  {
+    "name": "Riverlife Brisbane",
+    "suburb": "Kangaroo Point",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "15-800",
+    "website": "https://riverlife.com.au/functions/weddings/",
+    "music_notes": "Four outdoor/marquee event spaces on Brisbane River. Known for live band-friendly setups on Sunset Marquee and Riverfront Deck. Outdoor venue – noise may apply in parklands context."
+  },
+  {
+    "name": "Waters Edge Weddings and Events at Portside",
+    "suburb": "Hamilton",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "400 seated / 850 cocktail",
+    "website": "https://www.watersedgeportside.com.au",
+    "music_notes": "Modern waterfront venue on Brisbane River. Two light-filled spaces with private balcony. Live bands and DJs accommodated in main reception hall."
+  },
+  {
+    "name": "Emporium Hotel South Bank",
+    "suburb": "South Brisbane",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "20-400",
+    "website": "https://emporiumhotels.com.au",
+    "music_notes": "5-star hotel with Frangipani Ballroom. Pillarless interior with moveable walls. Live music and DJs commonly hosted. Indoor venue with sound system."
+  },
+  {
+    "name": "Brisbane Powerhouse",
+    "suburb": "New Farm",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "312 seated / 150 cocktail (Pleasuredome)",
+    "website": "https://brisbanepowerhouse.org",
+    "music_notes": "Industrial heritage venue with multiple spaces. Pleasuredome sailcloth tent seats 150-312. Rooftop Terrace capacity 80 cocktail. PA system and microphone included. Known for live music performances – flamenco and bands mentioned in real wedding examples."
+  },
+  {
+    "name": "Stamford Plaza Brisbane",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "500+",
+    "website": "https://www.stamford.com.au/spb",
+    "music_notes": "Luxury riverside hotel with panoramic views of Brisbane River, Story Bridge and Kangaroo Point Cliffs. Multiple ballroom and function room options. Live music-friendly for weddings and corporate events."
+  },
+  {
+    "name": "Sofitel Brisbane Central",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "1100 cocktail / 650 banquet",
+    "website": "https://www.sofitelbrisbane.com.au",
+    "music_notes": "Largest pillarless hotel ballroom in Brisbane (Ballroom Le Grand, 798sqm). Eleven versatile event spaces. Live bands and entertainment regularly hosted for weddings and corporate events."
+  },
+  {
+    "name": "The Calile Hotel",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "300 banquet / 500 theatre",
+    "website": "https://thecalilehotel.com",
+    "music_notes": "Modern luxury hotel on James Street Precinct. Rooftop and function spaces set up for both DJs and live performers. Described by musicians as ideal for live music with urban sophistication vibe."
+  },
+  {
+    "name": "Victoria Park",
+    "suburb": "Herston",
+    "region": "Brisbane",
+    "type": "function_centre",
+    "capacity": "408 seated / 1000 cocktail",
+    "website": "https://victoriapark.com.au",
+    "music_notes": "Eight unique function rooms at golf course venue with city skyline views. Marquee holds 1000 cocktail / 444 banquet. Ballroom 230 seated. Regularly hosts weddings, corporate events, and live entertainment. DJ/band setups common."
+  },
+  {
+    "name": "W Brisbane",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "600 cocktail (Great Room)",
+    "website": "https://www.marriott.com/en-us/hotels/bnewh-w-brisbane/",
+    "music_notes": "Great Room is pillarless 595sqm with customised LED wall lighting. SUN Deck outdoor space 250-300 guests for ceremonies and music concerts. Described as ideal for 'supercharged music concerts' and wedding events."
+  },
+  {
+    "name": "Brisbane Marriott Hotel",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "230 seated (Grand Ballroom)",
+    "website": "https://www.marriott.com/en-us/hotels/bnedt-brisbane-marriott-hotel/",
+    "music_notes": "Grand Ballroom 2309sqft overlooking Brisbane River. 12 sophisticated meeting rooms. Live bands and entertainment hosted in ballroom for weddings and corporate galas."
+  },
+  {
+    "name": "Wild Canary",
+    "suburb": "Brookfield",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "100 seated / 130 cocktail",
+    "website": "https://www.wildcanary.com.au",
+    "music_notes": "Botanical bistro garden wedding venue. Inbuilt and portable PA system included. Power available at Fig Tree arbour and dance floor. Live acoustic performers and bands welcome. Clear marquee with fairy lights included in packages."
+  },
+  {
+    "name": "Factory 51",
+    "suburb": "Teneriffe",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "150 seated / 180 cocktail",
+    "website": "https://factory51.com.au",
+    "music_notes": "Climate-controlled, sound-engineered warehouse. Explicitly suited for live wedding music – live bands, acoustic performers, jazz-style vocals all mentioned. Industrial chic aesthetic. Sound checks beautifully for live performers."
+  },
+  {
+    "name": "Tattersall's Club",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "function_centre",
+    "capacity": "400 cocktail / 300 banquet",
+    "website": "https://tattersallsclub.com",
+    "music_notes": "Elegant heritage Grand Ballroom. Members club atmosphere. Live entertainment hosted for formal events. Sound system available."
+  },
+  {
+    "name": "The Warehouse Brisbane",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "corporate",
+    "capacity": "400 cocktail / 300 banquet",
+    "website": "https://thewarehousebrisbane.com.au",
+    "music_notes": "Industrial warehouse-style event space. Ideal for conferences, cocktail functions, product launches. Live music-friendly space with high ceilings and open layout."
+  },
+  {
+    "name": "The Fox Hotel",
+    "suburb": "South Brisbane",
+    "region": "Brisbane",
+    "type": "function_centre",
+    "capacity": "300 cocktail",
+    "website": "https://thefox.com.au",
+    "music_notes": "Multiple function rooms near South Bank. Regular live music venue and popular for corporate and social events. Casual atmosphere with live entertainment heritage."
+  },
+  {
+    "name": "The Joinery",
+    "suburb": "West End",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "200 cocktail / 150 banquet",
+    "website": "https://thejoinerywestend.com.au",
+    "music_notes": "Creative warehouse-style event space in West End. Product launches, workshops, creative corporate functions. Live music accommodated in open warehouse layout."
+  },
+  {
+    "name": "Lina Rooftop",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "rooftop",
+    "capacity": "500",
+    "website": "https://linarooftop.com.au",
+    "music_notes": "French Riviera-inspired rooftop restaurant with 180-degree views of Brisbane skyline. Groups of 10-500. Open-air terrace events. Live music and DJ events regularly hosted."
+  },
+  {
+    "name": "Cielo Rooftop",
+    "suburb": "Fortitude Valley",
+    "region": "Brisbane",
+    "type": "rooftop",
+    "capacity": "70 seated / 180 standing",
+    "website": "https://www.parlourgroup.com.au/cielo-rooftop/",
+    "music_notes": "Rooftop bar at 209 Brunswick Street. Alcohol licence until 10pm (extension available). PA system and music speakers included. Outdoor covered garden lounge and skyline terrace. Suitable for smaller intimate events."
+  },
+  {
+    "name": "Hyatt Regency Brisbane – Hibiscus Room Terrace",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "rooftop",
+    "capacity": "150",
+    "website": "https://www.hyatt.com/hyatt-regency/en-US/bnehb-hyatt-regency-brisbane",
+    "music_notes": "4th-level outdoor terrace with panoramic views over Queen Street Mall and infinity pool. Rooftop cocktail event space. Live music-friendly for outdoor celebrations."
+  },
+  {
+    "name": "Brisbane Convention & Exhibition Centre (BCEC)",
+    "suburb": "South Bank",
+    "region": "Brisbane",
+    "type": "corporate",
+    "capacity": "4000 banquet / 4000 cocktail",
+    "website": "https://bcec.com.au",
+    "music_notes": "Queensland's premier convention venue at South Bank. Multiple halls and meeting rooms. Fully equipped for large-scale corporate events, gala dinners, awards nights with live entertainment. Regularly hosts music concerts and gala events."
+  },
+  {
+    "name": "Royal International Convention Centre (Royal ICC)",
+    "suburb": "Bowen Hills",
+    "region": "Brisbane",
+    "type": "corporate",
+    "capacity": "3213 cocktail / 25000 (Main Arena)",
+    "website": "https://www.brisbaneshowgrounds.com.au/hire/royal-icc/",
+    "music_notes": "Located at Brisbane Showgrounds. Three flexible halls, heritage hardwood facade, operable ceiling grid. Hosts music festivals, gala dinners, corporate events with live entertainment. World-class catering onsite."
+  },
+  {
+    "name": "InterContinental Brisbane",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "1000 (Grand Ballroom)",
+    "website": "https://www.ihg.com/intercontinental/hotels/us/en/brisbane",
+    "music_notes": "2500sqm of meeting and event space across 15 function rooms. Grand Ballroom splits into 3 sections. Live music and bands commonly hosted for weddings and corporate galas."
+  },
+  {
+    "name": "Cherbon Waters",
+    "suburb": "Burbank",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "200",
+    "website": "",
+    "music_notes": "Equestrian estate and garden wedding venue east of Brisbane. Permanent marquee reception beside lake. Acoustic and live music popular in outdoor garden setting."
+  },
+  {
+    "name": "OceanView Estates",
+    "suburb": "Ocean View",
+    "region": "Brisbane",
+    "type": "winery",
+    "capacity": "300+",
+    "website": "https://oceanviewestates.com.au",
+    "music_notes": "Vineyard estate 45km north of Brisbane with panoramic ocean views. Multiple ceremony and reception spaces. Onsite accommodation. Live music common at vineyard events."
+  },
+  {
+    "name": "Rainforest Gardens",
+    "suburb": "Mount Cotton",
+    "region": "Redlands",
+    "type": "wedding",
+    "capacity": "100",
+    "website": "",
+    "music_notes": "Garden wedding venue in Redlands with covered pavilion reception. Ceremony areas by lagoon deck surrounded by rainforest. Outdoor setting; acoustic music noted as popular."
+  },
+  {
+    "name": "Sirromet Winery",
+    "suburb": "Mount Cotton",
+    "region": "Redlands",
+    "type": "winery",
+    "capacity": "300+",
+    "website": "https://www.sirromet.com",
+    "music_notes": "Award-winning winery 45 minutes from Brisbane and Gold Coast. Three reception spaces: Lurleen's (high ceilings, exposed timber beams), Barrel Hall (cellar atmosphere), and Tuscan Terrace. Regular live music events at the winery. Multiple ceremony locations among vines and lagoon."
+  },
+  {
+    "name": "The Grandview Hotel",
+    "suburb": "Cleveland",
+    "region": "Redlands",
+    "type": "hotel",
+    "capacity": "200+",
+    "website": "",
+    "music_notes": "Queensland's oldest licensed pub with sweeping Moreton Bay views. Ceremony and reception areas including Heritage Cleveland Room, marquee, and verandah. Historic venue; live entertainment heritage."
+  },
+  {
+    "name": "The Lighthouse Restaurant",
+    "suburb": "Cleveland",
+    "region": "Redlands",
+    "type": "function_centre",
+    "capacity": "250",
+    "website": "",
+    "music_notes": "Waterfront venue at Cleveland Point overlooking Moreton Bay with North Stradbroke Island views. 30 minutes from Brisbane. Deck on edge of bay. Function manager on site. Live music accommodated."
+  },
+  {
+    "name": "Redland Bay Golf Club",
+    "suburb": "Redland Bay",
+    "region": "Redlands",
+    "type": "function_centre",
+    "capacity": "120",
+    "website": "",
+    "music_notes": "Golf club venue with bay views. Air-conditioned function room seats 120, plus new marquee on deck. Arbour and gazebo ceremony options. Live music and DJs hosted for receptions."
+  },
+  {
+    "name": "Hogan's Wellington Point",
+    "suburb": "Wellington Point",
+    "region": "Redlands",
+    "type": "function_centre",
+    "capacity": "200",
+    "website": "",
+    "music_notes": "Nautilus Function Room (Hampton-style, upstairs with Moreton Bay views) and Old Bill's Whisky Bar. Cocktail and seated configurations. Live music and entertainment accommodated."
+  },
+  {
+    "name": "Royal Queensland Yacht Squadron",
+    "suburb": "Manly",
+    "region": "Redlands",
+    "type": "function_centre",
+    "capacity": "300 cocktail / 230 seated",
+    "website": "https://rqys.com.au",
+    "music_notes": "Waterfront venue on Moreton Bay at Manly marina. Flags Room (100 dinner), Girdis Room (230 seated / 300 cocktail) with balconies over harbour. Ceremony lawn for 150. Live music hosted regularly."
+  },
+  {
+    "name": "Moreton Bay Boat Club",
+    "suburb": "Scarborough",
+    "region": "Moreton Bay",
+    "type": "function_centre",
+    "capacity": "120",
+    "website": "https://mbbc.org.au",
+    "music_notes": "Waterfront venue on Scarborough Harbour overlooking Moreton Bay, 40 minutes north of Brisbane. Covered outdoor deck and spacious interior. Intimate to 120 guests. Live music accommodated."
+  },
+  {
+    "name": "Sandstone Point Hotel",
+    "suburb": "Sandstone Point",
+    "region": "Moreton Bay",
+    "type": "hotel",
+    "capacity": "300",
+    "website": "https://sandstonepointhotel.com.au",
+    "music_notes": "Award-winning waterfront hotel on Pumicestone Passage near Bribie Island. 5 ceremony locations, 3 indoor reception spaces, 3 outdoor deck spaces. Cellar Room hosts DJ and dance floor. Live music and DJ events regularly hosted."
+  },
+  {
+    "name": "Clear Mountain Lodge Spa & Vineyard (Mercure)",
+    "suburb": "Clear Mountain",
+    "region": "Moreton Bay",
+    "type": "winery",
+    "capacity": "110",
+    "website": "https://mercureclearmountain.com.au",
+    "music_notes": "Hinterland vineyard/spa lodge 35 minutes from Brisbane CBD. Serenity Room overlooking manicured gardens. Music must end by 12:00 AM. Min 40 / max 110 reception guests."
+  },
+  {
+    "name": "Spicers Clovelly Estate",
+    "suburb": "Montville",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "120",
+    "website": "https://spicersretreats.com/retreats/spicers-clovelly-estate/",
+    "music_notes": "Luxury French provincial estate in Sunshine Coast Hinterland. 19 guest suites. Manicured gardens for ceremonies. Indoor dining room and outdoor marquee for up to 120 on front lawn. Live music commonly featured at this upscale venue."
+  },
+  {
+    "name": "Maleny Manor",
+    "suburb": "Bald Knob",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "120 seated / 150 standing",
+    "website": "https://www.malenymanor.com.au",
+    "music_notes": "Secluded private estate with hinterland, rainforest and ocean views. Packages for 40-120 guests. Six suites for accommodation. Three ceremony locations. Live bands and musicians commonly booked for receptions at this estate."
+  },
+  {
+    "name": "Flaxton Gardens",
+    "suburb": "Flaxton",
+    "region": "Sunshine Coast",
+    "type": "winery",
+    "capacity": "400 seated (marquee) / 160 seated (Winery)",
+    "website": "https://flaxtongardens.com.au",
+    "music_notes": "Award-winning Sunshine Coast Hinterland venue with coastal views. Winery is acoustically lined with mezzanine level for band/DJ setup. Reverse cycle air conditioning. DJ or musician included in some wedding packages. Excellent live music setup."
+  },
+  {
+    "name": "Yandina Station",
+    "suburb": "Yandina Creek",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "300+",
+    "website": "https://yandinastation.com.au",
+    "music_notes": "Iconic rustic estate with heritage barn and expansive grounds. Country charm with options for glamping accommodation. Live bands commonly hosted in heritage barn for receptions."
+  },
+  {
+    "name": "Palm Creek Estate",
+    "suburb": "Peregian Springs",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "200",
+    "website": "https://www.palmcreekestate.com.au",
+    "music_notes": "Boutique coastal farm venue 10 mins from Peregian Beach, 20 mins from Noosa. Regular live music events on estate. Multiple alfresco terraces. Corporate events, weddings and retreats. Live music sets the tone at weekend events."
+  },
+  {
+    "name": "Sunshine Coast Function Centre",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "type": "function_centre",
+    "capacity": "1200 cocktail / 770 seated",
+    "website": "https://caloundrarsl.com.au/sunshine-coast-function-centre/",
+    "music_notes": "Premier event destination at Caloundra RSL. Diamond Ballroom caters 1200 cocktail / 500 banquet. Also has Sapphire, Emerald and Gem rooms. Dance floor included. Live music and entertainment regularly hosted for weddings and corporate events."
+  },
+  {
+    "name": "Oaks Sunshine Coast Oasis Resort",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "type": "hotel",
+    "capacity": "220",
+    "website": "https://www.oakshotels.com/en/oaks-oasis-resort",
+    "music_notes": "Coastal hotel with 6 versatile event spaces, tropical gardens and lotus lagoon ceremony site. Up to 220 guests across all spaces. Suitable for weddings and corporate conferences. Live music accommodated."
+  },
+  {
+    "name": "Twin Waters Golf Club",
+    "suburb": "Twin Waters",
+    "region": "Sunshine Coast",
+    "type": "function_centre",
+    "capacity": "220",
+    "website": "https://twinwatersgolfclub.com.au",
+    "music_notes": "Golf club with Hampton-style Clubhouse and immaculate greens on Sunshine Coast. Indoor and outdoor ceremony and reception spaces. 30-220 guests. Dedicated wedding planner. Live music hosted for receptions."
+  },
+  {
+    "name": "Noosa Boathouse",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "type": "wedding",
+    "capacity": "200 cocktail / 120 seated (River Room)",
+    "website": "https://www.noosaboathouse.com.au",
+    "music_notes": "Three-level floating boathouse on Noosa River. River Room has dedicated DJ/band space in floor plan. All live music and DJs must conclude by 11:00pm due to unique riverside location. Dance floor hire available ($400-600)."
+  },
+  {
+    "name": "Secrets on the Lake",
+    "suburb": "Montville",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "80",
+    "website": "https://secretsonthelake.com.au",
+    "music_notes": "Treehouse accommodation retreat by Lake Baroon. Intimate weddings 4-80 guests. Multiple venues: Lakehouse (30), Dining on the Deck (70), Hideaway (10-20), Gallery (30). Boutique luxury venue; intimate acoustic music preferred over full bands given size."
+  },
+  {
+    "name": "Sunshine Beach Surf Lifesaving Club",
+    "suburb": "Sunshine Beach",
+    "region": "Sunshine Coast",
+    "type": "function_centre",
+    "capacity": "180",
+    "website": "",
+    "music_notes": "Coastal venue on dunes of Sunshine Beach near Noosa. Ocean views. 30-180 guests. Indoor and outdoor options. Customisable packages. Live music and entertainment hosted."
+  },
+  {
+    "name": "Goodwater Ridge Weddings & Events",
+    "suburb": "Bald Knob",
+    "region": "Sunshine Coast",
+    "type": "estate",
+    "capacity": "200",
+    "website": "",
+    "music_notes": "European-inspired private estate near Maleny. Indoor and outdoor ceremony and reception spaces. Exclusive use venue – blank canvas. Live music-friendly indoor spaces."
+  },
+  {
+    "name": "Glass House Country Weddings",
+    "suburb": "Glass House Mountains",
+    "region": "Sunshine Coast",
+    "type": "wedding",
+    "capacity": "50",
+    "website": "",
+    "music_notes": "Multiple exclusive-use rustic venues with Glass House Mountain views. Small boutique weddings 2-50 guests. All-inclusive packages. Intimate acoustic music preferred; venue size limits full band setups."
+  },
+  {
+    "name": "Southport Yacht Club",
+    "suburb": "Main Beach",
+    "region": "Gold Coast",
+    "type": "function_centre",
+    "capacity": "300",
+    "website": "https://syc.com.au",
+    "music_notes": "Spectacular waterfront venue overlooking 300-berth superyacht marina and Broadwater. 50-300 guests. Private beach. Bespoke wedding and event packages. Live bands and DJs regularly hosted."
+  },
+  {
+    "name": "Sheraton Grand Mirage Resort Gold Coast",
+    "suburb": "Main Beach",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "capacity": "500+",
+    "website": "https://www.marriott.com/en-us/hotels/oolsp-sheraton-grand-mirage-resort-gold-coast/",
+    "music_notes": "5-star beachfront resort. Grand Ballroom with chandeliers. Australian Wedding Awards 2023 winner for Best Wedding Venue Resort Hotel. Live bands and entertainment standard for weddings."
+  },
+  {
+    "name": "JW Marriott Gold Coast Resort & Spa",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "capacity": "400+ (JW Grand Ballroom 715sqm)",
+    "website": "https://www.marriott.com/en-us/hotels/oolsp-jw-marriott-gold-coast-resort-and-spa/",
+    "music_notes": "Lagoon and beachfront resort. JW Grand Ballroom (715sqm, pillarless, high ceilings) plus Lagoon Gallery and Tamborine Gallery. 11 event venues. Live music and entertainment hosted at all major events."
+  },
+  {
+    "name": "Hilton Surfers Paradise",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "capacity": "350 cocktail / 200 banquet (Grand Ballroom)",
+    "website": "https://www.hilton.com/en/hotels/oolhihi-hilton-surfers-paradise-hotel-and-residences/",
+    "music_notes": "Grand Ballroom 250sqm. Overlooks golden shores. Flexible layout for cocktail or banquet style. Live entertainment and bands commonly hosted for weddings and corporate events."
+  },
+  {
+    "name": "The Star Gold Coast",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "type": "corporate",
+    "capacity": "1800 cocktail / 1040 banquet (Event Centre Ballroom)",
+    "website": "https://www.star.com.au/goldcoast/functions/",
+    "music_notes": "Premier casino and event centre. Event Centre Ballroom is flexible for cocktail reception 1800 or banquet 1040. Major concerts and live entertainment regularly hosted. Purpose-built for large-scale productions."
+  },
+  {
+    "name": "Gold Coast Convention and Exhibition Centre (GCCEC)",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "type": "corporate",
+    "capacity": "6000 theatre / 4600 banquet",
+    "website": "https://www.gccec.com.au",
+    "music_notes": "Largest regional convention centre in Australia (10,000sqm). 22 modern flexible spaces with natural light and Gold Coast skyline views. Main arena, four exhibition halls. Hosts major concerts, gala dinners, corporate conventions with live entertainment."
+  },
+  {
+    "name": "SkyPoint Observation Deck",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "rooftop",
+    "capacity": "240",
+    "website": "https://skypoint.com.au",
+    "music_notes": "Q1 building's 77th-floor observation deck with 360-degree coastal views. 50-240 guests. Unique event hire space. Live acoustic music and DJs hosted for cocktail functions."
+  },
+  {
+    "name": "Vibe Hotel Gold Coast",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "capacity": "200+",
+    "website": "https://www.vibehotels.com/hotel/gold-coast/",
+    "music_notes": "Contemporary hotel in Surfers Paradise. Rooftop terrace for outdoor ceremonies overlooking Nerang River and Gold Coast Hinterland. Live music and DJs hosted for weddings."
+  },
+  {
+    "name": "Waterside Events at Currumbin RSL",
+    "suburb": "Currumbin",
+    "region": "Gold Coast",
+    "type": "function_centre",
+    "capacity": "350",
+    "website": "",
+    "music_notes": "Waterfront function venue at Currumbin RSL. 50-350 guests. Live bands and DJs regularly hosted."
+  },
+  {
+    "name": "Kirra Beach House",
+    "suburb": "Kirra",
+    "region": "Gold Coast",
+    "type": "wedding",
+    "capacity": "250",
+    "website": "",
+    "music_notes": "30-250 guests. Late night alcohol and music licence available. Coastal beachside venue. Live music-friendly with extended licence option."
+  },
+  {
+    "name": "InterContinental Sanctuary Cove Resort",
+    "suburb": "Sanctuary Cove",
+    "region": "Gold Coast",
+    "type": "hotel",
+    "capacity": "300",
+    "website": "https://www.ihg.com/intercontinental/hotels/us/en/sanctuary-cove/",
+    "music_notes": "Resort hotel at Sanctuary Cove marina. 2-300 guests. Multiple ballroom and garden ceremony spaces. Live music and entertainment hosted for weddings and corporate events."
+  },
+  {
+    "name": "The Bower Estate",
+    "suburb": "Natural Bridge",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "250",
+    "website": "https://thebowerestate.com.au",
+    "music_notes": "120-acre estate in Numinbah Valley. World Heritage rainforest, rolling hills. 40-250 guests. Described by professional musicians as having exceptional acoustics and atmosphere for live music. 45 minutes from Gold Coast CBD."
+  },
+  {
+    "name": "Cedar Creek Estate",
+    "suburb": "Mount Tamborine",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "110",
+    "website": "https://cedarcreekestate.com.au",
+    "music_notes": "Vineyard and winery atop Tamborine Mountain. Non-denominational chapel and garden arbour. Cedar Room (up to 110) overlooks vineyards with space for dance floor and DJ booth. Live music accommodated."
+  },
+  {
+    "name": "Albert River Wines",
+    "suburb": "Tamborine",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "150",
+    "website": "https://www.albertriverwines.com.au",
+    "music_notes": "Scenic Rim vineyard. Auchenflower Ballroom (largest space, 150 guests) plus Tamborine House homestead with covered deck. Chapel Garden (60 guests), Fig Tree. 15-150 guests across four ceremony and three reception spaces. Live music welcome."
+  },
+  {
+    "name": "O'Reilly's Canungra Valley Vineyards",
+    "suburb": "Canungra",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "250",
+    "website": "https://oreillys.com.au",
+    "music_notes": "Vineyard 40 minutes from Gold Coast. Marquee (250 guests), wine cellar, historic Killowen homestead ballroom (100 guests). Creekside ceremony locations. 200-250 guests cocktail style. Live music hosted for receptions."
+  },
+  {
+    "name": "Sarabah Vineyard Estate",
+    "suburb": "Canungra",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "150+",
+    "website": "",
+    "music_notes": "Vineyard near Lamington National Park. Ceremony among vines, rustic jetty, olive groves or heart-shaped dam. Marquee for larger gatherings or European-designed chalet (seats 70). Live music and entertainment hosted."
+  },
+  {
+    "name": "Kooroomba Vineyard and Lavender Farm",
+    "suburb": "Mount Alford",
+    "region": "Ipswich",
+    "type": "winery",
+    "capacity": "200",
+    "website": "https://www.kooroomba.com.au",
+    "music_notes": "Award-winning vineyard and lavender farm. Architecturally designed restaurant and chapel. Dining room for small or large weddings, terrace overlooking lavender fields for cocktail receptions. Live music hosted."
+  },
+  {
+    "name": "Spicers Hidden Vale",
+    "suburb": "Grandchester",
+    "region": "Ipswich",
+    "type": "estate",
+    "capacity": "150",
+    "website": "https://spicersretreats.com/retreats/spicers-hidden-vale/",
+    "music_notes": "12,000-acre oasis 40 minutes from Ipswich. Historic homestead seats 120, rustic barn seats 80, outdoor courtyard 90 guests. Marquee reception up to 150. Relaxed country wedding style. Live music hosted at homestead receptions."
+  },
+  {
+    "name": "Gabbinbar Homestead",
+    "suburb": "Middle Ridge",
+    "region": "Toowoomba",
+    "type": "estate",
+    "capacity": "400+",
+    "website": "https://www.gabbinbar.com.au",
+    "music_notes": "Destination wedding venue on 13-acre estate in Toowoomba. 160-year-old gardens. All-inclusive exclusive use. Ceremony areas ideal for acoustic performances; reception hall with natural reverb described as excellent for live vocals. 90 minutes from Brisbane."
+  },
+  {
+    "name": "Preston Peak Winery",
+    "suburb": "Preston",
+    "region": "Toowoomba",
+    "type": "winery",
+    "capacity": "300 cocktail / 160 seated",
+    "website": "https://www.prestonpeakfunctions.com.au",
+    "music_notes": "Award-winning winery in Darling Downs mountain ranges near Toowoomba. All-weather Wedding Tree Pavilion and outdoor ceremony options. Regular live music events including jazz quartet. Executive chef, sommelier service. International-calibre live entertainment hosted."
+  },
+  {
+    "name": "Burke and Wills Hotel Toowoomba",
+    "suburb": "Toowoomba CBD",
+    "region": "Toowoomba",
+    "type": "hotel",
+    "capacity": "300+",
+    "website": "https://www.burkeandwillshotel.com.au",
+    "music_notes": "Heritage hotel in Toowoomba CBD. Function rooms and ballroom for weddings and corporate events. Live music hosted for receptions and events."
+  },
+  {
+    "name": "Ipswich Events and Entertainment Centre",
+    "suburb": "Bundamba",
+    "region": "Ipswich",
+    "type": "function_centre",
+    "capacity": "500",
+    "website": "",
+    "music_notes": "Turf Club function venue 30 minutes from Brisbane, 1 hour from Toowoomba. Grange Lounge (260 seated), multiple other spaces from 40 to 500. Race track backdrop. Live entertainment and DJ setups hosted regularly."
+  },
+  {
+    "name": "Woodlands of Marburg",
+    "suburb": "Marburg",
+    "region": "Ipswich",
+    "type": "estate",
+    "capacity": "300",
+    "website": "",
+    "music_notes": "Heritage-listed 250-acre country estate near Ipswich. Multiple reception venues: mansion private dining room (26), sandstone cellar (26), larger function spaces up to 300. Heritage chapel. Live music hosted."
+  },
+  {
+    "name": "Workshops Rail Museum",
+    "suburb": "North Ipswich",
+    "region": "Ipswich",
+    "type": "wedding",
+    "capacity": "300",
+    "website": "https://theworkshops.qm.qld.gov.au",
+    "music_notes": "Unique heritage venue with steam locomotive centrepiece. Moving Goods Hall (300 cocktail / 180 seated) with 11-metre ceilings. Original Dining Hall (200 guests). Live music and entertainment well-suited to the dramatic industrial heritage space."
+  },
+  {
+    "name": "Logan Entertainment Centre",
+    "suburb": "Logan Central",
+    "region": "Logan",
+    "type": "corporate",
+    "capacity": "450",
+    "website": "https://loganentertainmentcentre.com.au",
+    "music_notes": "Logan's premier function venue. World-class facility with state-of-the-art event technology, five-star kitchen, multipurpose auditorium and intimate meeting rooms. Caters 70-450 banquet style. Full catering service. Live entertainment hosted including concerts and gala events."
+  },
+  {
+    "name": "Hampton Estate Wines",
+    "suburb": "Mount Tamborine",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "100",
+    "website": "",
+    "music_notes": "Vineyard on Tamborine Mountain with incredible views. Spaces include whiskey bar, outdoor green, Hampton house, and The Glasshouse (100 guests). Accommodation for up to 16 onsite. Bespoke experience – live music accommodated."
+  },
+  {
+    "name": "Dusty Hill Vineyard",
+    "suburb": "Moffatdale",
+    "region": "Ipswich",
+    "type": "winery",
+    "capacity": "200",
+    "website": "https://www.dustyhill.com.au",
+    "music_notes": "South Burnett vineyard with heritage-style wedding chapel. Reception in The Cooperage (open sides, garden and lake views) and Prendergast's Irish Tavern. Explicitly offers 'fantastic selection of live entertainment, from chamber musicians through to rock and blues'. Live music is a core offering."
+  },
+  {
+    "name": "Noosa Waterfront Restaurant",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "type": "wedding",
+    "capacity": "150",
+    "website": "",
+    "music_notes": "Waterfront restaurant on Noosa River surrounded by Moreton Bay Fig trees. 120 seated / 150 cocktail. Intimate and unique waterfront setting. Live music accommodated."
+  },
+  {
+    "name": "Blackbird Brisbane",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "function_centre",
+    "capacity": "220",
+    "website": "https://blackbirdbrisbane.com.au",
+    "music_notes": "Waterside restaurant and bar in Brisbane CBD. 12-220 guests. Contemporary event space for weddings and corporate events. Live music accommodated."
+  },
+  {
+    "name": "Rydges Hotel South Bank",
+    "suburb": "South Brisbane",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "500+",
+    "website": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
+    "music_notes": "Hotel in South Bank precinct with multiple event spaces. Waterfront location. Live music and entertainment hosted for weddings and corporate events."
+  },
+  {
+    "name": "Voco Brisbane City Centre",
+    "suburb": "Brisbane CBD",
+    "region": "Brisbane",
+    "type": "hotel",
+    "capacity": "756 theatre / 450 banquet",
+    "website": "https://www.ihg.com/voco/hotels/us/en/brisbane/",
+    "music_notes": "Contemporary riverside hotel. Natural light and vibrant city backdrop. Cocktail 400, banquet 450, theatre 756. Live music hosted for corporate events and galas."
+  },
+  {
+    "name": "Summergrove Estate",
+    "suburb": "Carool",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "170",
+    "website": "https://summergrove.com.au",
+    "music_notes": "Hinterland estate near Gold Coast/Northern NSW border. Spacious reception barn with perfect sound acoustics. Ocean and mountain views. Described by musicians as a venue where live music 'never misses' at golden hour. Highly recommended for live bands."
+  },
+  {
+    "name": "Rosewood Estate",
+    "suburb": "Beechmont",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "200",
+    "website": "https://www.wedshed.com.au/planning/venues/rosewood-estate-gold-coast-hinterland-qld",
+    "music_notes": "Horse and cattle property on Gold Coast hinterland plateau. Views from South Stradbroke Island to Coolangatta. 50-200 guests. Semi-permanent clear marquee. Preferred supplier list. Curfew not publicly listed."
+  },
+  {
+    "name": "Balancing Heart Vineyard",
+    "suburb": "Canungra",
+    "region": "Gold Coast",
+    "type": "winery",
+    "capacity": "100",
+    "website": "https://balancingheart.com.au",
+    "music_notes": "Contemporary vineyard with Sunset Pavilion event space in heart of vineyard. Weddings, elopements, private functions. Romantic outdoor setting. Live music accommodated."
+  },
+  {
+    "name": "Flame Hill Vineyard",
+    "suburb": "Montville",
+    "region": "Sunshine Coast",
+    "type": "winery",
+    "capacity": "100",
+    "website": "",
+    "music_notes": "Vineyard at highest point of Montville on Blackall Range. Two distinct ceremony locations. Wine and food matching reception experience. Hinterland views. Live acoustic and small band setups common."
+  },
+  {
+    "name": "Walkabout Creek",
+    "suburb": "The Gap",
+    "region": "Brisbane",
+    "type": "wedding",
+    "capacity": "200",
+    "website": "https://walkaboutcreek.ehq.qld.gov.au",
+    "music_notes": "Native wildlife centre with natural bush setting. Rustic and boho-style weddings. Live acoustic music described as 'dreamy by the water's edge'. Popular Brisbane nature wedding venue."
+  },
+  {
+    "name": "Mo's Desert Clubhouse",
+    "suburb": "Burleigh Heads",
+    "region": "Gold Coast",
+    "type": "wedding",
+    "capacity": "220",
+    "website": "",
+    "music_notes": "Unique event space at Burleigh Heads. 20-220 guests. Distinctive venue with live music-friendly layout."
+  },
+  {
+    "name": "COAST Gold Coast",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "type": "rooftop",
+    "capacity": "250 exclusive hire / 180 rooftop terrace",
+    "website": "",
+    "music_notes": "Rooftop bar and event space in central Surfers Paradise. Exclusive hire up to 250 guests, rooftop terrace 180 guests. Live music and DJ events regularly hosted."
+  },
+  {
+    "name": "Parkwood Weddings",
+    "suburb": "Parkwood",
+    "region": "Gold Coast",
+    "type": "function_centre",
+    "capacity": "300",
+    "website": "",
+    "music_notes": "Purpose-built wedding and function venue in Gold Coast. 40-300 guests. Indoor and outdoor ceremony spaces. Live music and DJ setups for receptions."
+  },
+  {
+    "name": "Shambala Estate",
+    "suburb": "Tamborine Mountain",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "160",
+    "website": "",
+    "music_notes": "Private estate on Tamborine Mountain. 20-160 guests. Hinterland gardens. Live music accommodated in estate setting."
+  },
+  {
+    "name": "Colliston Farm",
+    "suburb": "Gilston",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "100",
+    "website": "",
+    "music_notes": "Farm venue near Gold Coast. 3-100 guests. Rustic outdoor setting. Acoustic and small live music setups popular."
+  },
+  {
+    "name": "Heritage Estate Winery",
+    "suburb": "Cottonvale",
+    "region": "Toowoomba",
+    "type": "winery",
+    "capacity": "100",
+    "website": "",
+    "music_notes": "Granite Belt vineyard near Stanthorpe/Toowoomba region. Vineyard ceremony area (100 guests). Premium wines with cultural and dietary-accommodating menus. Live music at vineyard events."
+  },
+  {
+    "name": "Kwila Lodge",
+    "suburb": "Mudgeeraba",
+    "region": "Gold Coast",
+    "type": "estate",
+    "capacity": "160",
+    "website": "",
+    "music_notes": "Hinterland lodge venue near Gold Coast. 40-160 guests. Lush garden setting. Live music accommodated."
+  }
+]
