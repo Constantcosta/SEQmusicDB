@@ -144,6 +144,7 @@ function renderFilters() {
     const allBtn = document.createElement('button');
     allBtn.className = 'filter-btn active';
     allBtn.textContent = 'All';
+    allBtn.setAttribute('aria-pressed', 'true');
     allBtn.dataset.filterGroup = filterKey;
     allBtn.dataset.filterValue = '__all__';
     allBtn.addEventListener('click', () => handleFilterClick(filterKey, '__all__'));
@@ -153,6 +154,7 @@ function renderFilters() {
       const btn = document.createElement('button');
       btn.className = 'filter-btn';
       btn.textContent = formatType(val);
+      btn.setAttribute('aria-pressed', 'false');
       btn.dataset.filterGroup = filterKey;
       btn.dataset.filterValue = val;
       btn.addEventListener('click', () => handleFilterClick(filterKey, val));
@@ -171,11 +173,12 @@ function handleFilterClick(group, value) {
   }
   displayLimit = PAGE_SIZE;
 
-  // Update button states
+  // Update button states and aria-pressed
   document.querySelectorAll(`.filter-btn[data-filter-group="${group}"]`).forEach(btn => {
     const isAll = btn.dataset.filterValue === '__all__';
     const isActive = value === '__all__' ? isAll : btn.dataset.filterValue === value;
     btn.classList.toggle('active', isActive);
+    btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
   });
 
   renderCards();
@@ -325,9 +328,21 @@ function actCard(a) {
 
 function escHtml(str) {
   if (!str) return '';
-  const div = document.createElement('div');
-  div.textContent = str;
-  return div.innerHTML;
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
+// Debounce utility
+function debounce(fn, delay) {
+  let timer;
+  return function(...args) {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn.apply(this, args), delay);
+  };
 }
 
 // Tab switching
@@ -368,16 +383,18 @@ function exportCSV() {
   URL.revokeObjectURL(a.href);
 }
 
-// Theme toggle
+// Theme toggle (persists choice in localStorage)
 (function(){
   const t = document.querySelector('[data-theme-toggle]');
   const r = document.documentElement;
-  let d = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  const stored = localStorage.getItem('seq-theme');
+  let d = stored || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
   r.setAttribute('data-theme', d);
   updateToggleIcon(t, d);
   t && t.addEventListener('click', () => {
     d = d === 'dark' ? 'light' : 'dark';
     r.setAttribute('data-theme', d);
+    localStorage.setItem('seq-theme', d);
     updateToggleIcon(t, d);
   });
 })();
@@ -406,13 +423,17 @@ document.querySelectorAll('.nav-link').forEach(btn => {
   });
 });
 
-document.getElementById('search').addEventListener('input', (e) => {
+document.getElementById('search').addEventListener('input', debounce((e) => {
   searchQuery = e.target.value;
   displayLimit = PAGE_SIZE;
   renderCards();
-});
+}, 200));
 
 document.getElementById('export-btn').addEventListener('click', exportCSV);
+
+// Load more button (replaces inline onclick)
+const loadMoreBtn = document.getElementById('load-more-btn');
+if (loadMoreBtn) loadMoreBtn.addEventListener('click', loadMore);
 
 // Init
 loadData();
