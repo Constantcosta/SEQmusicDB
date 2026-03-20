@@ -2,7 +2,7 @@
 
 // State
 let currentTab = 'venues';
-let allData = { venues: [], weddings: [], agents: [], acts: [] };
+let allData = { venues: [], weddings: [], agents: [], acts: [], musicians: [] };
 let activeFilters = {};
 let searchQuery = '';
 let displayLimit = 60;
@@ -18,6 +18,11 @@ const icons = {
   link: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>',
   capacity: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>',
   phone: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>',
+  fire: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 12c2-2.96 0-7-1-8 0 3.038-1.773 4.741-3 6-1.226 1.26-2 3.24-2 5a6 6 0 1 0 12 0c0-1.532-1.056-3.94-2-5-1.786 3-2.791 3-4 2z"/></svg>',
+  instagram: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor" stroke="none"/></svg>',
+  spotify: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M8 15c3-1 6-1 9 .5M7 12.5c4-1.5 8-1.5 11 .5M6.5 10c4.5-1.5 9.5-1.5 13 1"/></svg>',
+  facebook: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>',
+  instrument: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>',
 };
 
 // Formatters
@@ -51,30 +56,38 @@ const filterConfigs = {
     type: { label: 'Type', key: 'type', values: [] },
     genre: { label: 'Genre', key: 'genre', values: [] },
   },
+  musicians: {
+    region: { label: 'Region', key: 'region', values: [] },
+    type: { label: 'Type', key: 'type', values: [] },
+    genre: { label: 'Genre', key: 'genres', values: [] },
+  },
 };
 
 // Load data
 async function loadData() {
   try {
-    const [venues, weddings, agents, acts] = await Promise.all([
+    const [venues, weddings, agents, acts, musicians] = await Promise.all([
       fetch('./data-venues.json').then(r => r.json()),
       fetch('./data-weddings.json').then(r => r.json()),
       fetch('./data-agents.json').then(r => r.json()),
       fetch('./data-acts.json').then(r => r.json()),
+      fetch('./data-musicians.json').then(r => r.json()),
     ]);
-    allData = { venues, weddings, agents, acts };
+    allData = { venues, weddings, agents, acts, musicians };
 
     // Populate filter values
     populateFilterValues('venues', venues);
     populateFilterValues('weddings', weddings);
     populateFilterValues('agents', agents);
     populateFilterValues('acts', acts);
+    populateFilterValues('musicians', musicians);
 
     // Set stats
     animateNumber('stat-venues', venues.length);
     animateNumber('stat-weddings', weddings.length);
     animateNumber('stat-agents', agents.length);
     animateNumber('stat-acts', acts.length);
+    animateNumber('stat-musicians', musicians.length);
 
     renderFilters();
     renderCards();
@@ -246,6 +259,7 @@ function createCard(item) {
     case 'weddings': return weddingCard(item);
     case 'agents': return agentCard(item);
     case 'acts': return actCard(item);
+    case 'musicians': return musicianCard(item);
     default: return '';
   }
 }
@@ -323,6 +337,48 @@ function actCard(a) {
     </div>
     ${a.notes ? `<p class="card-notes">${escHtml(a.notes)}</p>` : ''}
     ${link}
+  </div>`;
+}
+
+function musicianCard(m) {
+  const genres = (m.genres || '').split('|').map(g => g.trim()).filter(Boolean).map(g => formatType(g)).join(', ');
+  const instruments = (m.instruments || []).map(i => formatType(i)).join(', ');
+  const score = m.activity_score || 0;
+  const scoreLabel = score >= 75 ? 'Very Active' : score >= 50 ? 'Active' : score >= 25 ? 'Moderate' : 'Low';
+  const scoreClass = score >= 75 ? 'score-high' : score >= 50 ? 'score-mid' : 'score-low';
+
+  // Social links
+  const socialLinks = [];
+  if (m.social) {
+    if (m.social.instagram) socialLinks.push(`<a class="social-icon-link" href="${escHtml(m.social.instagram)}" target="_blank" rel="noopener noreferrer" aria-label="Instagram">${icons.instagram}</a>`);
+    if (m.social.facebook) socialLinks.push(`<a class="social-icon-link" href="${escHtml(m.social.facebook)}" target="_blank" rel="noopener noreferrer" aria-label="Facebook">${icons.facebook}</a>`);
+    if (m.social.spotify) socialLinks.push(`<a class="social-icon-link" href="${escHtml(m.social.spotify)}" target="_blank" rel="noopener noreferrer" aria-label="Spotify">${icons.spotify}</a>`);
+    if (m.social.website) socialLinks.push(`<a class="social-icon-link" href="${escHtml(m.social.website)}" target="_blank" rel="noopener noreferrer" aria-label="Website">${icons.link}</a>`);
+  }
+
+  return `<div class="card musician-card">
+    <div class="card-header">
+      <span class="card-title">${escHtml(m.name)}</span>
+      <span class="card-tag tag-musician">${formatActs(m.type)}</span>
+    </div>
+    <div class="card-meta">
+      <span class="card-meta-item">${icons.location} ${escHtml(m.suburb || '')}, ${escHtml(m.region)}</span>
+      <span class="card-meta-item">${icons.music} ${escHtml(genres)}</span>
+    </div>
+    <div class="card-meta">
+      <span class="card-meta-item">${icons.instrument} ${escHtml(instruments)}</span>
+    </div>
+    <div class="activity-bar">
+      <div class="activity-bar-label">
+        <span>${icons.fire} ${scoreLabel}</span>
+        <span>${m.gigs_per_month ? m.gigs_per_month + ' gigs/mo' : ''}</span>
+      </div>
+      <div class="activity-bar-track">
+        <div class="activity-bar-fill ${scoreClass}" style="width: ${score}%"></div>
+      </div>
+    </div>
+    ${m.notes ? `<p class="card-notes">${escHtml(m.notes)}</p>` : ''}
+    ${socialLinks.length > 0 ? `<div class="social-links">${socialLinks.join('')}</div>` : ''}
   </div>`;
 }
 

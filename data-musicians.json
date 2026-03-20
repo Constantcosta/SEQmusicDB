@@ -1,0 +1,1157 @@
+[
+  {
+    "name": "Bernard Fanning",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "guitar"
+    ],
+    "genres": "acoustic folk|blues|rock",
+    "region": "Brisbane",
+    "suburb": "Toowong",
+    "social": {
+      "instagram": "https://www.instagram.com/bernardfanning/",
+      "facebook": "https://www.facebook.com/bernardfanning/",
+      "spotify": "https://open.spotify.com/artist/bernardfanning",
+      "website": "https://bernardfanning.com/"
+    },
+    "activity_score": 85,
+    "gigs_per_month": 8,
+    "notes": "Former Powderfinger frontman, performing Tea & Sympathy 20th anniversary tour in 2026. Legacy artist touring nationally. Regular performer at major Brisbane venues and festivals."
+  },
+  {
+    "name": "The Grates",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "drums"
+    ],
+    "genres": "indie rock|alternative rock",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": "https://www.instagram.com/thegrates/",
+      "facebook": "https://www.facebook.com/thegrates/",
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 65,
+    "gigs_per_month": 3,
+    "notes": "Disbanded in 2020, but archived for historical significance. Were mainstay of Brisbane music scene since 2002. Influential indie rock band with critical and commercial success."
+  },
+  {
+    "name": "Mitch Bellert Quintet",
+    "type": "ensemble",
+    "instruments": [
+      "drums",
+      "trumpet",
+      "tenor saxophone",
+      "piano",
+      "double bass"
+    ],
+    "genres": "jazz|hard-bop|post-bop",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://mitchbellert.bandcamp.com/"
+    },
+    "activity_score": 75,
+    "gigs_per_month": 4,
+    "notes": "Regular performances at JMI Live and The Ruby Jazz Club. Focuses on hard-bop and post-bop jazz with Brisbane's top musicians. Drummer Mitch Bellert leads the ensemble."
+  },
+  {
+    "name": "Rhythm Road Band",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "pop|soul|funk|r&b|jazz|rock",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://rhythmroadband.com.au/"
+    },
+    "activity_score": 80,
+    "gigs_per_month": 12,
+    "notes": "Run by Verity & Logan. Play 3-14 piece configurations. High activity wedding and corporate band. Google rating 5.0/5 from 46 reviews. Perform across SEQ and internationally."
+  },
+  {
+    "name": "Nick Trovas",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "saxophone",
+      "keyboards",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|classics",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": "https://www.instagram.com/nicktrovasband/",
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.nicktrovas.com/"
+    },
+    "activity_score": 82,
+    "gigs_per_month": 10,
+    "notes": "Performs 4-8 piece configurations. Top wedding and corporate band. Described as true entertainer with effortless talent and charisma. Popular across Brisbane/Gold Coast/Sunshine Coast."
+  },
+  {
+    "name": "The Shine",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 78,
+    "gigs_per_month": 8,
+    "notes": "5-piece rock cover band. One of Brisbane's top cover bands for weddings, corporate events, and private events. Provides professional rig for indoor to outdoor functions."
+  },
+  {
+    "name": "Between The Covers",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "saxophone",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "pop|rock|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/betweenthecoversmusic/",
+      "spotify": null,
+      "website": "https://www.betweenthecoversmusic.com/"
+    },
+    "activity_score": 79,
+    "gigs_per_month": 9,
+    "notes": "Led by Becky Rhodes. Offers Solo, Duo, Band & DJ packages. Award-winning boutique entertainment agency. Customizable band configurations. Available Queensland and Victoria."
+  },
+  {
+    "name": "The Baker Boys",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "saxophone",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "funk|rock|jazz|soul|swing",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.bakerboysband.com.au/"
+    },
+    "activity_score": 85,
+    "gigs_per_month": 14,
+    "notes": "Award-winning customizable 3-14 piece band since 2005. Voted Australia's premier party band. Regular with touring/recording artists. High-energy music for festivals and events."
+  },
+  {
+    "name": "Lavish",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "r&b|top 40|classics",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 75,
+    "gigs_per_month": 8,
+    "notes": "High-end band specializing in wedding, corporate and private events. Professional repertoire across multiple genres. Well-reviewed for event entertainment."
+  },
+  {
+    "name": "Brisbane ABBA Tribute Show",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "tribute|pop",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 72,
+    "gigs_per_month": 6,
+    "notes": "Now into its 12th year of entertaining nationally and internationally. Professional ABBA tribute production with fabulous music and magical vocals."
+  },
+  {
+    "name": "The Naturals Band",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock|70s covers|80s covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/thenaturalsbandbrisbane/",
+      "spotify": null,
+      "website": "https://www.thenaturalsband.com.au/"
+    },
+    "activity_score": 78,
+    "gigs_per_month": 8,
+    "notes": "One of best classic rock and 70s/80s cover bands in Brisbane area. Features Tony Adams (ex-Mental as Anything), Leroy Bath, Todd Sheppard. Play major Queensland venues."
+  },
+  {
+    "name": "Aussie Pride Band",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "tribute|australian rock",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/AussiePrideBand/",
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 76,
+    "gigs_per_month": 7,
+    "notes": "6-piece tribute to legends of Australian rock from 60s to today. Features AC/DC, Cold Chisel, INXS, Powderfinger, etc. Available for private functions, weddings, venue bookings."
+  },
+  {
+    "name": "Bradley Button",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 72,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician in Brisbane. Rhythmic, catchy live music style. Performed at venues, weddings and private functions across Queensland and Northern areas."
+  },
+  {
+    "name": "Jamaal Sugars",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 73,
+    "gigs_per_month": 7,
+    "notes": "Most booked acoustic musician in Brisbane. Uses live looping for fuller sound. Variety of classic hits to modern favorites. Performs at venues, parties, weddings across Southeast and Cairns."
+  },
+  {
+    "name": "Kelsey Berrington",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "folk|indie|americana",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/KelseyBerringtonMusic/",
+      "spotify": null,
+      "website": "https://kelseyberringtonmusic.com.au/"
+    },
+    "activity_score": 74,
+    "gigs_per_month": 8,
+    "notes": "Folk singer-songwriter born and raised in Brisbane. Over 5 million streams. Performs original music and covers Vance Joy, Ed Sheeran, Bruce Springsteen. Played major Australian festivals."
+  },
+  {
+    "name": "Paper Lane",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "indie rock|pop rock",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.paperlaneband.com/"
+    },
+    "activity_score": 68,
+    "gigs_per_month": 5,
+    "notes": "Indie rock band featuring Taleena Peck, Luke Martin, David Rentell, Harry Schneider. Vintage pop-meets-rock sound. Mix of originals and covers (Fleetwood Mac, The Killers, Bruce Springsteen)."
+  },
+  {
+    "name": "Roundabouts",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums",
+      "keyboards"
+    ],
+    "genres": "pop|indie rock",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": "https://www.instagram.com/roundabouts_band/",
+      "facebook": null,
+      "spotify": "https://open.spotify.com/artist/64tyCY2tryedSw9AxUWty4",
+      "website": "https://www.roundabouts.com.au/"
+    },
+    "activity_score": 71,
+    "gigs_per_month": 6,
+    "notes": "6-piece pop and indie rock band formed 2018. Features multi-part vocal harmonies and layers. Mix of originals and select covers. Perform at various venues and events."
+  },
+  {
+    "name": "The Boat People",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "keyboards",
+      "tambourine",
+      "guitar",
+      "bass"
+    ],
+    "genres": "indie pop",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 50,
+    "gigs_per_month": 0,
+    "notes": "Historic Brisbane indie pop band (2000-2011). James O'Brien, Robin Waters, Charles Dugan, Tony Garrett. Influenced by Crowded House, Jeff Buckley, The Beatles. Band has disbanded."
+  },
+  {
+    "name": "Follow The Fox",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock|covers|top 40",
+    "region": "Gold Coast",
+    "suburb": "Gold Coast City",
+    "social": {
+      "instagram": "https://www.instagram.com/the.foxband/",
+      "facebook": "https://www.facebook.com/followthefoxgc/",
+      "spotify": null,
+      "website": "https://www.zeusmusic.com.au/followthefox"
+    },
+    "activity_score": 77,
+    "gigs_per_month": 9,
+    "notes": "Working 4-piece covers band. Young female lead vocalist, professional musicianship. Large varied song list. Regular performers at Treasury Casino, Brooklyn Depot, various clubs. Also perform Evanescence tribute."
+  },
+  {
+    "name": "Cool Cats Trio",
+    "type": "trio",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "covers|pop|rock",
+    "region": "Gold Coast",
+    "suburb": "Gold Coast City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 7,
+    "notes": "Perform hits of the 50s through to current chart hits. Comprised of vocalist/guitar, bass, and drums. Available for weddings and events on Gold Coast."
+  },
+  {
+    "name": "The Cliff & Shadows Experience",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "drums"
+    ],
+    "genres": "tribute|rock and roll|50s|60s",
+    "region": "Gold Coast",
+    "suburb": "Gold Coast City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.thecliffrichardexperience.com/"
+    },
+    "activity_score": 68,
+    "gigs_per_month": 5,
+    "notes": "Ray Leon as Cliff Richard, with Woody Finlayson (ex-Delltones lead guitar) and Merve Dick (ex-Delltones drummer). 2-hour show of classic Cliff Richard and Shadows hits. Tours throughout Queensland and interstate."
+  },
+  {
+    "name": "Vix and the Slick Chix",
+    "type": "trio",
+    "instruments": [
+      "vocals",
+      "bass",
+      "drums",
+      "harmonica"
+    ],
+    "genres": "blues|soul|gospel",
+    "region": "Sunshine Coast",
+    "suburb": "Noosa",
+    "social": {
+      "instagram": "https://www.instagram.com/vixandtheslickchix/",
+      "facebook": "https://www.facebook.com/vixandtheslickchix/",
+      "spotify": null,
+      "website": "https://vixandtheslickchix.com/home"
+    },
+    "activity_score": 76,
+    "gigs_per_month": 7,
+    "notes": "Award-winning all-female 3-4 piece blues band. Originated Brisbane West End 1997. Won 4 BASEQ Blues Excellence awards. Recipe: Chicago blues with soul, gospel, country. Smoking powerhouse vocals."
+  },
+  {
+    "name": "Brothers in Groove",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "funk|rock|soul|r&b|blues|reggae|pop",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/BrothersInGrooveTheBand/",
+      "spotify": null,
+      "website": "https://brothersingroove.com.au/"
+    },
+    "activity_score": 74,
+    "gigs_per_month": 7,
+    "notes": "Members: John Benstead (drums), Dewa Heriawan (bass), Harry Gusman (guitar), Nick Reeve (vocals). Groovy and rocky party band. Available for clubs, corporate functions, major events."
+  },
+  {
+    "name": "OzRageous",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums",
+      "keyboards"
+    ],
+    "genres": "rock|australian rock",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 71,
+    "gigs_per_month": 6,
+    "notes": "5-piece rock band from Sunshine Coast delivering high-energy Australian rock hits. Electrifying live performances."
+  },
+  {
+    "name": "The Billy Hillpicker Band",
+    "type": "ensemble",
+    "instruments": [
+      "vocals",
+      "acoustic guitar",
+      "banjo",
+      "percussion"
+    ],
+    "genres": "folk|bluegrass|acoustic roots",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 5,
+    "notes": "Members: John, Chris, Murray, Teryl, Jonah. Known for good time traditional and contemporary acoustic roots, bluegrass, and folk music. Loyal following. Debut CD 'Not Much to Go On' 2009."
+  },
+  {
+    "name": "Dellacoma",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock|hard rock",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/dellacoma/",
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 78,
+    "gigs_per_month": 8,
+    "notes": "Brash hard-hitting rock n roll band formed 2014. Over 500 shows across USA, UK, Europe, Australia. Latest album 'Searching For You In The Darkness' reached #2 on ARIA charts (Nov 2025)."
+  },
+  {
+    "name": "Sticks and Tones",
+    "type": "duo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar",
+      "drums",
+      "percussion"
+    ],
+    "genres": "rock covers|pop covers|acoustic",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/sticksandtonesaus/",
+      "spotify": null,
+      "website": "https://www.sticksntones.com.au/"
+    },
+    "activity_score": 72,
+    "gigs_per_month": 7,
+    "notes": "Tom and Darcy acoustic duo. Playing since 2014, hundreds of shows across Queensland and Australia. Perform at weddings, corporate, festivals, bars, charity events. Phone: 0468 955 338."
+  },
+  {
+    "name": "Signy Janelle",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar",
+      "foot percussion"
+    ],
+    "genres": "jazz|blues|soul|country|r&b|folk",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://signyjanellevocals.com/"
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Canadian vocalist, graduated jazz/contemporary program. Self-accompanied performer. Wide range of musical styles. Performs solo and with duo/trio/5-piece bands. Regular across Queensland venues."
+  },
+  {
+    "name": "The Golden One",
+    "type": "solo",
+    "instruments": [
+      "keyboards",
+      "percussion",
+      "hand percussion"
+    ],
+    "genres": "jazz|soul|funk|electronic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.goldensound.com.au/"
+    },
+    "activity_score": 72,
+    "gigs_per_month": 6,
+    "notes": "Multi-instrumentalist Peter Golikov. Sophisticated hybrid keyboard and percussion performance. Jams live with guest DJs. 15+ years collaboration with artists. Performs at major Australian music festivals."
+  },
+  {
+    "name": "DJ Tasha Lee",
+    "type": "dj_hybrid",
+    "instruments": [
+      "turntables",
+      "mixer",
+      "electronic equipment"
+    ],
+    "genres": "house|tech house|uk garage|dance|electronic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 74,
+    "gigs_per_month": 10,
+    "notes": "Dynamic force in Brisbane DJ scene since 2017. Deep love of house music. Tech house to UK garage specialist. Reads crowd well. Regular club and event DJ. Known for versatility."
+  },
+  {
+    "name": "DJ Tim",
+    "type": "dj_hybrid",
+    "instruments": [
+      "turntables",
+      "mixer",
+      "electronic equipment"
+    ],
+    "genres": "electronic|house|techno|trance",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 8,
+    "notes": "Specializes in electronic music. Seamlessly blends house, techno, and trance into sets. Regular performer at Brisbane electronic music venues."
+  },
+  {
+    "name": "Brooke",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 5,
+    "notes": "Brisbane acoustic solo singer-musician. Has performed across Europe, America, Maldives, and Australasia. Skilled vocalist and guitarist."
+  },
+  {
+    "name": "Candice",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "folk|pop|singer-songwriter",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 67,
+    "gigs_per_month": 5,
+    "notes": "Brisbane acoustic singer-songwriter with musical legacy from entertainer parents. Delivers folk and pop covers with original interpretations."
+  },
+  {
+    "name": "Tim Sladden",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "guitar"
+    ],
+    "genres": "rock|acoustic|indie",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 67,
+    "gigs_per_month": 5,
+    "notes": "Brisbane-based guitarist and songwriter. Developed eclecticism and originality with his musicianship and songwriting. Eclectic performance style."
+  },
+  {
+    "name": "Greg McInnes",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "rock|acoustic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 66,
+    "gigs_per_month": 5,
+    "notes": "Dynamic acoustic rock soloist. Provides entertainment to Brisbane and Sunshine Coast venues. Energetic performances."
+  },
+  {
+    "name": "Jessamy Fox",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "country|folk|acoustic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 66,
+    "gigs_per_month": 5,
+    "notes": "Accomplished singer-songwriter with country music roots. Self-accompanied on acoustic guitar. Original songs and covers."
+  },
+  {
+    "name": "L.R. Marsh",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "folk|singer-songwriter",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 6,
+    "notes": "Most booked singer-songwriter in Brisbane area. Folk musician specializing in original and cover material."
+  },
+  {
+    "name": "Nate Daniels",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|acoustic|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 67,
+    "gigs_per_month": 5,
+    "notes": "Most booked acoustic musician in Brisbane. Professional solo performer at various venues and events."
+  },
+  {
+    "name": "Michelle Rau",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|acoustic|covers",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 67,
+    "gigs_per_month": 5,
+    "notes": "Most booked acoustic musician in Brisbane. Professional female solo performer. Versatile repertoire."
+  },
+  {
+    "name": "Brad & Brodie",
+    "type": "duo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician duo in Brisbane. Professional two-person acoustic act performing covers and originals."
+  },
+  {
+    "name": "Freight Train Foxes",
+    "type": "duo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "folk|americana|indie",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 69,
+    "gigs_per_month": 6,
+    "notes": "Kelsey Berrington's folk duo. Released 5 EPs with over 5 million streams combined. Modern and traditional folk covers."
+  },
+  {
+    "name": "The Between The Covers Agency",
+    "type": "ensemble",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "saxophone",
+      "keyboards",
+      "bass",
+      "drums"
+    ],
+    "genres": "pop|rock|jazz|acoustic",
+    "region": "Brisbane",
+    "suburb": "Brisbane City",
+    "social": {
+      "instagram": null,
+      "facebook": "https://www.facebook.com/betweenthecoversmusic/",
+      "spotify": null,
+      "website": "https://www.betweenthecoversmusic.com/"
+    },
+    "activity_score": 76,
+    "gigs_per_month": 8,
+    "notes": "Award-winning entertainment agency led by Becky Rhodes. Curates various musicians for different event needs. Available Queensland and Victoria wide."
+  },
+  {
+    "name": "Ollie Murk",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician on Sunshine Coast. Professional solo performer at various venues and weddings."
+  },
+  {
+    "name": "Andy C",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician on Sunshine Coast. Performs at various venues, weddings, and events."
+  },
+  {
+    "name": "Ryan Tracey",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|acoustic|covers",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician on Sunshine Coast. Regular performer at venue and private events."
+  },
+  {
+    "name": "Theunis Music",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician on Sunshine Coast. Professional solo performer at various venues."
+  },
+  {
+    "name": "Liam Griffin Music",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "acoustic guitar"
+    ],
+    "genres": "pop|rock|covers|acoustic",
+    "region": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 6,
+    "notes": "Most booked acoustic musician on Sunshine Coast. Regular performer across various Sunshine Coast venues."
+  },
+  {
+    "name": "Aussie & the Menace",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock covers|pub rock",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 6,
+    "notes": "Most booked cover band in Toowoomba. Rock cover band specializing in pub rock and classic hits."
+  },
+  {
+    "name": "LIAR Birds",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock covers|pub rock",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 70,
+    "gigs_per_month": 7,
+    "notes": "Toowoomba's ultimate pub rock covers band. Most booked cover band in the region. High-energy rock performances."
+  },
+  {
+    "name": "Echo Sky",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock covers|pop covers",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 6,
+    "notes": "Most booked cover band in Toowoomba. Contemporary rock and pop covers for venues and events."
+  },
+  {
+    "name": "Fibonacci Band",
+    "type": "band",
+    "instruments": [
+      "vocals",
+      "guitar",
+      "bass",
+      "drums"
+    ],
+    "genres": "rock covers|pop covers",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 68,
+    "gigs_per_month": 6,
+    "notes": "Most booked cover band in Toowoomba. Performs rock and pop covers at various venues and events."
+  },
+  {
+    "name": "Chris Edwards",
+    "type": "solo",
+    "instruments": [
+      "vocals",
+      "guitar"
+    ],
+    "genres": "rock|covers|acoustic",
+    "region": "Toowoomba",
+    "suburb": "Toowoomba",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 67,
+    "gigs_per_month": 5,
+    "notes": "Most booked cover band/solo artist in Toowoomba. Versatile rock and pop performer."
+  },
+  {
+    "name": "Redcliffe RSL and Municipal Band",
+    "type": "ensemble",
+    "instruments": [
+      "brass",
+      "woodwind",
+      "percussion"
+    ],
+    "genres": "brass band|classical|traditional",
+    "region": "Moreton Bay",
+    "suburb": "Redcliffe",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": null
+    },
+    "activity_score": 65,
+    "gigs_per_month": 4,
+    "notes": "Historic brass band in Redcliffe since 1965. Focus on development of band members. Traditional brass band performance experience."
+  },
+  {
+    "name": "Moreton Youth Music Ensembles",
+    "type": "ensemble",
+    "instruments": [
+      "strings",
+      "brass",
+      "woodwind",
+      "percussion"
+    ],
+    "genres": "classical|contemporary|educational",
+    "region": "Moreton Bay",
+    "suburb": "Murrumba Downs",
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "spotify": null,
+      "website": "https://www.myme-inc.com/"
+    },
+    "activity_score": 60,
+    "gigs_per_month": 3,
+    "notes": "Educational organization for young musicians primary and secondary school age. Various ensemble configurations. Focus on musical development."
+  }
+]
